@@ -66,7 +66,7 @@ You can use the T-SQL [PREDICT](../t-sql/queries/predict-transact-sql.md) functi
 
 | Package | Description |
 |---------|-------------|
-[**revoscalepy**](python/ref-py-revoscalepy.md)| Python-equivalent of RevoScaleR. You can create Python models for linear and logistic regressions, decision trees, boosted trees, and random forests, all parallelizable, and capable of being run in remote compute contexts. This package supports use of multiple data sources and remote compute contexts. The data scientist or developer can execute Python code on a remote SQL Server, to explore data or build models without moving data. |
+|[**revoscalepy**](python/ref-py-revoscalepy.md)| Python-equivalent of RevoScaleR. You can create Python models for linear and logistic regressions, decision trees, boosted trees, and random forests, all parallelizable, and capable of being run in remote compute contexts. This package supports use of multiple data sources and remote compute contexts. The data scientist or developer can execute Python code on a remote SQL Server, to explore data or build models without moving data. |
 |[**microsoftml**](python/ref-py-microsoftml.md) |Python-equivalent of the MicrosoftML R package. |
 
 ### Pre-trained models
